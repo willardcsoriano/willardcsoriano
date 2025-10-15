@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willardcsoriano
 - 👀 I’m interested in programming and math.
-- 🌱 I’m currently learning web development, and machine learning. 
+- 🌱 I’m currently learning web development and machine learning. 
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me? You can reach me through my Linkedin account: www.linkedin.com/in/willardcsoriano
 - 😄 Pronouns: HE
